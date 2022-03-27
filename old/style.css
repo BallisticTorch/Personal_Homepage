@@ -1,0 +1,84 @@
+body {
+    width: 1080px;
+    margin: auto;
+    background-color: #211e37;
+}
+
+h1 {
+    width: auto;
+    height: 90px;
+    margin-top: 300px;
+    font-weight: bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 48px;
+}
+
+section a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    width: 75px;
+    height: 50px;
+    padding: 6px;
+    border: 1px solid #211e37;
+    border-radius: .5em;
+}
+
+#mail {
+    width: 268px;
+    height: 125px;
+    margin: auto;
+    border: 1px solid blue;
+    float: left;
+}
+
+#mail img {
+    background-color: white;
+    display:block;
+    text-align: center;
+}
+
+#mail ul {
+    list-style-type: none;
+    padding: 0 10px;
+}
+
+#video {
+    width: 268px;
+    height: 165px;
+    margin: auto;
+    border: 1px solid orangered;
+    float:left;
+}
+
+#video img {
+    background-color: red;
+}
+
+#social {
+    width: 268px;
+    height: 165px;
+    margin: auto;
+    border: 1px solid purple;
+    float: left;
+}
+
+#social img {
+    background-color: cyan;
+}
+
+#news {
+    width: 268px;
+    height: 165px;
+    margin: auto;
+    border: 1px solid red;
+    float: left;
+}
+
+#news img {
+    background-color: orangered;
+}

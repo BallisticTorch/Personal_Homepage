@@ -1,0 +1,62 @@
+body {
+    width: 1080px;
+    margin: auto;
+    background-color: #211e37;
+}
+
+h1 {
+    width: auto;
+    height: 90px;
+    margin-top: 300px;
+    font-weight: bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 48px;
+}
+
+#main_icons {
+    margin: 0 auto;
+}
+
+div {
+    width: 268px;
+    height: 75px;
+    margin: auto;
+    float: left;
+}
+
+div a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    width: 75px;
+    height: 50px;
+    padding: 4px;
+    border: 1px solid #211e37;
+    border-radius: .5em;
+    background-color: white;
+}
+
+#mail {
+    border: 1px solid blue;
+}
+
+#mail ul {
+    list-style-type: none;
+    padding: 0 10px;
+}
+
+#video {
+    border: 1px solid orangered;
+}
+
+#social {
+    border: 1px solid purple;
+} 
+
+#news {
+    border: 1px solid red;
+}
